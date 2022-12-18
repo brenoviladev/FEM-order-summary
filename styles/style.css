@@ -43,6 +43,7 @@ body {
 	flex-direction: column;
 	padding: 2rem 2.5rem;
 	background: #fff;
+	border-radius: 0 0 18px 18px;
 }
 
 .hero-content-text__heading {
