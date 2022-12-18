@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Product preview card component]()
+- Solution URL: [https://github.com/brenoviladev/FEM-order-summary]()
+- Live Site URL: [https://brenoviladev.github.io/FEM-order-summary/]()
 
 ## My process
 
@@ -36,11 +36,15 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- Sass
+- BEM
 
 ### What I learned
 
+first time using BEM, it really made easier to work with css, i really liked it
+
 ### Continued development
+
+I'll continue learning and practicing BEM naming convention, also doing Frontend mentor challenges.
 
 ## Author
 
